@@ -1,6 +1,4 @@
 #Airbnb Austin
-#Abby Frels, Thao Nguyen, Gabriel Tellez
-#Presentation: 10/12/17
 
 #libraries
 library(tm)
