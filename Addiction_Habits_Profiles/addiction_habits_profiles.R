@@ -1,10 +1,5 @@
 ---
 title: "Addiction Profiles"
-author: "Tyler Price & Gabriel Tellez"
-date: "January 19, 2018"
-output:
-  word_document: default
-  html_document: default
 ---
 
 ### REMINDER: DO NOT CHANGE SECTION STARTS HERE ###
