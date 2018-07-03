@@ -1,4 +1,5 @@
 #Airbnb Austin
+# Word clouds and bar graphs
 
 #libraries
 library(tm)
