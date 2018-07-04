@@ -1,10 +1,5 @@
 ---
 title: "Dallas2017"
-author: "THAO NGUYEN and GABRIEL TELLEZ"
-date: "March 2, 2018"
-output:
-  word_document: default
-  html_document: default
 ---
 
 ```{r setup, include=FALSE}
