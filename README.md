@@ -1,6 +1,6 @@
 # Projects
 
-University of Texas at San Antonio
+The University of Texas at San Antonio
 
 Data Analytics Masters Program
 
